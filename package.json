@@ -1,0 +1,24 @@
+{
+  "name": "express-server",
+  "version": "0.0.1",
+  "description": "web server with express framework",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/geminikenshi/express-server.git"
+  },
+  "author": "Kenshi Kuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geminikenshi/express-server/issues"
+  },
+  "homepage": "https://github.com/geminikenshi/express-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
